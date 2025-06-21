@@ -1,4 +1,4 @@
-# CareBot Assist 🤖💊
+    # CareBot Assist 🤖💊
 
 **CareBot Assist** is an AI-powered healthcare chatbot built with [Rasa](https://rasa.com/).  
 It helps users book doctor appointments, log symptoms, and receive medication reminders.
@@ -58,4 +58,4 @@ To see detailed logs and trace the bot's behavior, use:
 rasa shell --debug
 
 
-**Nishat Jillani** - Developer
+**Hasnat Ehsan** - Developer
